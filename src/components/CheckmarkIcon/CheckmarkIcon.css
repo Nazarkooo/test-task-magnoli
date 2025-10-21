@@ -1,0 +1,25 @@
+.checkmark-block {
+  grid-column: 2;
+  grid-row: 2;
+  background: white;
+  color: #333;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.large-check-icon {
+  font-size: 32px;
+  color: #28a745;
+  background: #e8f5e8;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #28a745;
+}

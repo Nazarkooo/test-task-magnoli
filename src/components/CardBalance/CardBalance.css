@@ -1,0 +1,30 @@
+.card-balance-block {
+  grid-column: 1;
+  grid-row: 1;
+  background: white;
+  color: #333;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.card-balance-block h3 {
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 6px;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.balance-amount {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.available-balance {
+  font-size: 11px;
+  color: #6c757d;
+}

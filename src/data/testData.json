@@ -1,0 +1,131 @@
+{
+  "user": {
+    "cardLimit": 1500,
+    "cardBalance": 17.3,
+    "paymentStatus": "paid"
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "type": "credit",
+      "amount": 14.06,
+      "merchant": "Apple",
+      "description": "Card Number Used Diana - Yesterday",
+      "date": "2024-01-15",
+      "status": "pending",
+      "authorizedUser": "Diana",
+      "location": "Online",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 3
+    },
+    {
+      "id": 2,
+      "type": "payment",
+      "amount": 174.0,
+      "merchant": "Payment",
+      "description": "From JPMorgan Chase Bank Natio... Tuesday",
+      "date": "2024-01-14",
+      "status": "completed",
+      "location": "Bank Transfer",
+      "cardUsed": "JPMorgan Chase Bank",
+      "percentage": 0
+    },
+    {
+      "id": 3,
+      "type": "credit",
+      "amount": 3.24,
+      "merchant": "Apple",
+      "description": "Card Number Used Diana - Tuesday",
+      "date": "2024-01-14",
+      "status": "completed",
+      "authorizedUser": "Diana",
+      "location": "Online",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 3
+    },
+    {
+      "id": 4,
+      "type": "payment",
+      "amount": 99.71,
+      "merchant": "Payment",
+      "description": "From JPMorgan Chase Bank Natio... Saturday",
+      "date": "2024-01-13",
+      "status": "completed",
+      "location": "Bank Transfer",
+      "cardUsed": "JPMorgan Chase Bank",
+      "percentage": 0
+    },
+    {
+      "id": 5,
+      "type": "payment",
+      "amount": 73.58,
+      "merchant": "Payment",
+      "description": "From JPMorgan Chase Bank Natio... Monday",
+      "date": "2024-01-12",
+      "status": "completed",
+      "location": "Bank Transfer",
+      "cardUsed": "JPMorgan Chase Bank",
+      "percentage": 0
+    },
+    {
+      "id": 6,
+      "type": "credit",
+      "amount": 21.61,
+      "merchant": "IKEA",
+      "description": "Round Rock, TX 10/1/22",
+      "date": "2022-10-01",
+      "status": "completed",
+      "location": "Round Rock, TX",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 2
+    },
+    {
+      "id": 7,
+      "type": "credit",
+      "amount": 73.58,
+      "merchant": "Target",
+      "description": "Cedar Park, TX",
+      "date": "2024-01-10",
+      "status": "completed",
+      "location": "Cedar Park, TX",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 2
+    },
+    {
+      "id": 8,
+      "type": "credit",
+      "amount": 7.5,
+      "merchant": "Airalo",
+      "description": "Mobile Data Purchase",
+      "date": "2022-05-26",
+      "status": "approved",
+      "location": "Online",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 1
+    },
+    {
+      "id": 9,
+      "type": "credit",
+      "amount": 45.2,
+      "merchant": "Starbucks",
+      "description": "Coffee Purchase",
+      "date": "2024-01-09",
+      "status": "completed",
+      "location": "Austin, TX",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 2
+    },
+    {
+      "id": 10,
+      "type": "credit",
+      "amount": 12.99,
+      "merchant": "Netflix",
+      "description": "Monthly Subscription",
+      "date": "2024-01-08",
+      "status": "completed",
+      "location": "Online",
+      "cardUsed": "RBC Bank Debit Card",
+      "percentage": 1
+    }
+  ]
+}

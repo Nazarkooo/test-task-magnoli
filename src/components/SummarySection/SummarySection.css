@@ -1,0 +1,14 @@
+.summary-section {
+  padding: 20px;
+}
+
+.summary-blocks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 16px;
+}
